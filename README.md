@@ -14,3 +14,6 @@ Project management is an essential skill-set for many careers and in many contex
 ### 18/02/2016
 - Enrolled in the program
 - Finished Course 1. What is Project Management?
+
+### 24/02/2016
+- Finished Course 2. The Initiation Phase
