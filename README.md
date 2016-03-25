@@ -23,3 +23,6 @@ Project management is an essential skill-set for many careers and in many contex
 
 ### 09/03/2016
 - Finished Course 4. Determining Project Risk
+
+### 26/03/2016
+- Finished Course 5. Project Teams and Communication
